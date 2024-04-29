@@ -1,0 +1,16 @@
+{
+    "name": "ernist/orm_field_mapper",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Ernist\\OrmFieldMapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ernist",
+            "email": "ernist.abduvaliev@gmail.com"
+        }
+    ],
+    "require": {}
+}
