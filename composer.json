@@ -1,6 +1,7 @@
 {
     "name": "ernist/orm_field_mapper",
-    "type": "composer-plugin",
+    "type": "library",
+    "version": "0.0.0",
     "autoload": {
         "psr-4": {
             "Ernist\\OrmFieldMapper\\": "src/"
