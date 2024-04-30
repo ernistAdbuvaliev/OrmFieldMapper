@@ -1,6 +1,6 @@
 {
     "name": "ernist/orm_field_mapper",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -13,7 +13,10 @@
             "email": "ernist.abduvaliev@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^10.0"
+    },
     "repositories": [
         {
             "type": "vcs",
