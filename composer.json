@@ -13,5 +13,11 @@
             "email": "ernist.abduvaliev@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ernistAdbuvaliev/OrmFieldMapper"
+        }
+    ]
 }
