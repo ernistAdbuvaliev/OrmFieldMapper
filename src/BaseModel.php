@@ -1,7 +1,6 @@
 <?php
-namespace OrmFieldMapper\app\Models;
+namespace OrmFieldMapper;
 
-use OrmFieldMapper\app\Extensions\QueryBuilder;
 use Illuminate\Database\Eloquent\Model;
 
 class BaseModel extends Model
