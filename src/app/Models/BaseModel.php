@@ -1,7 +1,7 @@
 <?php
-namespace App\Models;
+namespace Ernist\OrmFieldMapper\app\Models;
 
-use App\Extensions\QueryBuilder;
+use Ernist\OrmFieldMapper\app\Extensions\QueryBuilder;
 use Illuminate\Database\Eloquent\Model;
 
 class BaseModel extends Model
