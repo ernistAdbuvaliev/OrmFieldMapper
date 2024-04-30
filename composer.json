@@ -1,6 +1,5 @@
 {
     "name": "ernist/orm_field_mapper",
-    "type": "library",
     "version": "0.0.0",
     "autoload": {
         "psr-4": {
