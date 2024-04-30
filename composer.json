@@ -1,6 +1,6 @@
 {
     "name": "orm_field_mapper",
-    "version": "0.0.1",
+    "version": "0.0.7",
     "type": "library",
     "autoload": {
         "psr-4": {
